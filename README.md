@@ -1,4 +1,4 @@
-# İlk Webforms üzerinde calışmam 
+# İlk Windowsforms üzerinde calışmam 
 
 Tamir olacak ürünlerin sistemde kayıt edilmesi ve adisyon yazıcılarında cıktı alabilirsiniz.
 
