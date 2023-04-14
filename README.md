@@ -1,5 +1,6 @@
 # İlk Webforms üzerinde calışmam 
 
+Tamir olacak ürünlerin sistemde kayıt edilmesi ve adisyon yazıcılarında cıktı alabilirsiniz.
 
 
 ## Yapılan İşlemler
